@@ -1,1 +1,11 @@
 
+.header { display: none; }
+.pagehead { display: none; }
+.repository-with-sidebar .repository-content { width: inherit; float: inherit; }
+.repository-sidebar { display:none }
+.gh-header-meta { display:none; }
+#wiki-wrapper { margin-top: 30px; margin-bottom: 20px; }
+#wiki-rightbar { display: none; }
+.has-rightbar #wiki-body { margin-right: 0px; }
+#wiki-footer { display: none; }
+.site-footer { display: none; }
